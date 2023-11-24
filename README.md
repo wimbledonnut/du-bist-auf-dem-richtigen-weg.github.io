@@ -1,2 +1,2 @@
 # du-bist-auf-dem-richtigen-weg.github.io
-<p>Hello!</p>
+Well, you reached the right website! Can you figure out what is next?
